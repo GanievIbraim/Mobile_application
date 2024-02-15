@@ -1,6 +1,6 @@
 # MobileApplicationsDevelopment
-Materials to the course "Mobile Applications Development"
+Лабораторные работы по дисциплине Мобильная разработка
 
-**@Lenmar Abdurayimov**  
-**2023**
+**@Ганиев Ибраим, группа И-2-21**  
+**2024**
 
